@@ -1,0 +1,96 @@
+#logo{
+
+width:150px;
+height:150px;
+
+}
+
+
+#btn{
+
+
+color:white;
+background-color:#00b386;
+}
+#wlc{
+color: white;
+border-style: solid;
+border-radius: 5px;
+background: #00b386;
+height:30px;
+width:215px;
+margin:auto;
+
+}
+#wlct{
+color: white;
+border-style: solid;
+border-radius: 5px;
+background: #00b386;
+height:30px;
+width:105px;
+margin:auto;
+
+}
+#ftr{
+margin: auto;
+color: white;
+border-style: solid;
+border-radius: 5px;
+background: #00b386;
+
+}
+#ahrf{
+color:white;
+}
+#obs{
+background: red;
+color:white;
+height:27px;
+width:265px;
+margin:auto;
+border-radius: 7px;
+}
+#obso{
+background: red;
+color:white;
+height:27px;
+width:102px;
+margin:auto;
+border-radius: 7px;
+}
+.table{
+background: #00b386;
+color:white;
+height:auto;
+width:auto;
+margin:auto;
+border-radius: 10px;
+}
+#pe{
+background: #00b386;
+color:white;
+border-radius: 5px;
+height:auto;
+width:auto;
+margin:auto;
+}
+#ep{
+background: white;
+color:#00b386;
+border-radius: 5px;
+height:auto;
+width:auto;
+margin:auto;
+}
+#gu{width: 35px;
+height: 35px;
+cursor: pointer; 
+border-radius: 5px;
+}
+#gu:hover{width: 35px;
+height: 35px;
+cursor: pointer;
+background: white;
+ 
+}
