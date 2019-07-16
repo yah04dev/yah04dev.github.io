@@ -35,7 +35,14 @@ background: #00b386;
 }
 #ahrf{
 text-color:black;
+color:black;
 }
+#ahrf:hover{
+text-color:white;
+color:white;
+background-color:#00b386;
+}
+
 #obs{
 background: red;
 color:white;
