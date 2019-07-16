@@ -6,8 +6,12 @@ height:150px;
 }
 
 #wlct{
-background: #00b386;
+background-color: #00b386;
 margin:auto;
+
+}
+#wlctx{
+color:white;
 
 }
 
@@ -15,7 +19,7 @@ margin:auto;
 
 
 color:white;
-background:#00b386;
+background-color:#00b386;
 }
 
 
