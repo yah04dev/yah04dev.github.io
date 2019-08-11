@@ -8,13 +8,10 @@ height:150px;
 #wlct{
 background-color: #00b386;
 margin:auto;
-text-color:white;
-border-redius:auto;
+color: white
+border-redius:4px;
 }
-#wlctx{
-color:white;
 
-}
 
 #btn{
 
