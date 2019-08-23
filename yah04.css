@@ -24,14 +24,7 @@ background-color:#00b386;
 
 
 }
-#ftr{
-margin: auto;
-color: white;
-border-style: solid;
-border-radius: 5px;
-background: #00b386;
 
-}
 #ahrf{
 text-color:black;
 color:black;
@@ -95,3 +88,9 @@ background: white;
 }
 
 
+#ftr{
+margin: auto;
+color:#00b386;
+
+
+}
