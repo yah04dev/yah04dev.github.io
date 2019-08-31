@@ -8,7 +8,9 @@ html,body{
 }
 
 #logo{
-text-align: center;
+    text-align: center;
+    height: 50px;
+    width: 70px;
 
 }
 #lg1{
