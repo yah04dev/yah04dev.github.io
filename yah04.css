@@ -14,8 +14,8 @@ html,body{
 
 }
 #lg1{
-    height: 50px;
-    width: 70px;
+    height: 150px;
+    width: 170px;
 }
 #bnv{
     text-align: center;
@@ -48,6 +48,8 @@ html,body{
 }
 #vid{
     text-align: center;
+    height: 200px;
+    width: 420px;
 }
 html{width:100%;
     
