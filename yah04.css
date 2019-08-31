@@ -1,96 +1,60 @@
+html,body{
+    
+    margin:auto;
+}
+#pg{
+    background-color: #000000;
+    
+}
+
 #logo{
-
-width:150px;
-height:150px;
+text-align: center;
 
 }
-
-#wtf{
-margin:auto;
-color:#00b386;
-border-redius:7px;
+#lg1{
+    height: 150px;
+    width: 170px;
 }
-#nav{
-margin:auto;
+#bnv{
+    text-align: center;
+    color: azure;
+    background-color: red;
+    border-radius: 7px;
+    height:70px;
+    width:300px;
+    margin:auto;
 }
-
-#btn{
-
-
-color:white;
-background-color:#00b386;
+#e1{
+    text-align: center;
+    color:red;
+    background-color:white;
+    border-radius: 7px;
+    height:167px;
+    width:320;
+    margin:auto;
 }
-
-
-
+#nvb{
+    background-color: red; 
+    color:white;
+    border-radius: 8px;
+    margin: auto;
+    height: auto;
+    width: auto;
 }
-
-#ahrf{
-text-color:black;
-color:black;
+#b{
+    color: antiquewhite;
 }
-#ahrf:hover{
-text-color:white;
-color:white;
-background-color:#00b386;
+#vid{
+    text-align: center;
 }
-
-#obs{
-background: red;
-color:white;
-height:27px;
-width:265px;
-margin:auto;
-border-radius: 7px;
+html{width:100%;
+    
 }
-#obso{
-background: red;
-color:white;
-height:27px;
-width:102px;
-margin:auto;
-border-radius: 7px;
-}
-.table{
-background: #00b386;
-color:white;
-height:auto;
-width:auto;
-margin:auto;
-border-radius: 10px;
-}
-#pe{
-background: #00b386;
-color:white;
-border-radius: 5px;
-height:auto;
-width:auto;
-margin:auto;
-}
-#ep{
-background: white;
-color:#00b386;
-border-radius: 5px;
-height:auto;
-width:auto;
-margin:auto;
-}
-#gu{width: 35px;
-height: 35px;
-cursor: pointer; 
-border-radius: 5px;
-}
-#gu:hover{width: 35px;
-height: 35px;
-cursor: pointer;
-background: white;
- 
-}
-
-
 #ftr{
-margin: auto;
-color:#00b386;
-
-
+    text-align:center;
+    color:white;
+    
+    height:35px;
+    width:300px;
+    margin:auto;
 }
