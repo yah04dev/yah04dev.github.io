@@ -22,7 +22,7 @@ html,body{
 #bnv{
     text-align: center;
     color: azure;
-    background-color: #66ffc2;
+    background-color:#52c7a0;
     border-radius: 7px;
     height:70px;
     width:300px;
@@ -38,7 +38,7 @@ html,body{
     margin:auto;
 }
 #nvb{
-    background-color: #66ffc2; 
+    background-color: #52c7a0; 
     color:white;
     border-radius: 8px;
     margin: auto;
@@ -59,7 +59,7 @@ html{width:100%;
 }
 #ftr{
     text-align:center;
-    color:#66ffc2;
+    color:#52c7a0;
     
     height:35px;
     width:300px;
