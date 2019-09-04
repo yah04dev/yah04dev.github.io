@@ -27,6 +27,10 @@ html,body{
     height:70px;
     width:300px;
     margin:auto;
+    font-family:'digital-clock-font';
+    src: url('DIGITALDREAM.ttf');
+
+
 }
 #e1{
     text-align: center;
